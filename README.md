@@ -1,6 +1,6 @@
 WatchAuth project resource locations:
 
-Paper: https://arxiv.org/pdf/2202.01736.pdf
+Paper: https://ieeexplore.ieee.org/document/9797370 (arXiv: https://arxiv.org/pdf/2202.01736.pdf)
 
 Code: https://github.com/jacksturgess/watchauth
 
